@@ -1,0 +1,113 @@
+body {
+    background-color: rgb(16, 16, 16);
+    overflow-x: hidden;
+}
+#para{
+    color: white;
+    font-family: arial Black;
+    font-size: 40px;
+    position: relative;
+    left: 38.5%;}
+#pre {
+    font-family: arial black;
+    color: white;
+    font-size: 16px;
+    position: absolute;
+    left: 39%;
+}
+#email {
+    background-color: #121212;
+    color: gray;
+    border-color: white;
+    height: 40px;
+    width: 350px;
+    font-size: 20px;
+    padding: 0.4rem;
+    border-radius: 10px;
+    position: absolute;
+    left: 39%;
+}
+#next {
+    background-color: #1ed760;
+    text-align: center;
+    height: 50px;
+    width: 365px;
+    font-weight: bolder;
+    font-size: 18px;
+    border-radius: 20px;
+    position: absolute;
+    left: 39%;
+}
+#img{
+    background-color: #121212;
+    color: white;
+    border-color: white;
+    height: 50px;
+    width: 365px;
+    border-radius: 20px;
+    text-align: left;
+    font-size: 20px;
+    font-family: arial black;
+    font-weight: normal;
+    padding: 0.4rem;
+    position: absolute;
+    left: 39%;
+}
+#imgf{
+    background-color: #121212;
+    color: white;
+    border-color: white;
+    height: 50px;
+    width: 365px;
+    border-radius: 20px;
+    text-align: left;
+    font-size: 20px;
+    font-family: arial black;
+    font-weight: normal;
+    padding: 0.4rem;
+    position: absolute;
+    left: 39%;
+}
+hr{
+    border-color: gray;
+    width: 450px;
+
+}
+#ed {
+    color: gray;
+    position: absolute;
+    right: 40.5% ;
+}
+#final {
+    font-size: 15px;
+    color: gray;
+    position: absolute;
+    left: 41%;
+}
+#or{
+    position: absolute;
+    left: 38%;
+}
+#line{
+    position: absolute;
+    left: 39%;
+}
+#final1 {
+    font-size: 15px;
+    color: gray;
+    position: absolute;
+    left: 43.5%;
+}
+#listen{
+    color: white;
+    font-family: arial Black;
+    font-size: 40px;
+    position: absolute;
+    top: 15%;
+    left: 39%;
+}
+#image{
+    position: relative;
+    top: 50%;
+    left: 1%;
+}
